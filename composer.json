@@ -1,5 +1,5 @@
 {
-    "name": "ns/mypakages",
+    "name": "nisar/mypakages",
     "description": "This is the First Library.",
     "type": "library",
     "license": "MIT",
